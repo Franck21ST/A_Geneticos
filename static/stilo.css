@@ -1,0 +1,15 @@
+body{
+    background-image: url("../static/fondo.jpg");
+    background-size: cover;
+}
+.container{
+    background-color:rgba(46, 160, 160, 0.781);
+    color :whitesmoke;
+}
+h3{
+    text-decoration: overline;
+}
+.Boton{
+    color:whitesmoke;
+    background-color: black;
+}
